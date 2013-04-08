@@ -9,3 +9,4 @@ syntax: glob
 .sass-cache
 Gemfile.lock
 dist
+js/flat_ui/resources/sass/flat-ui.min.css
