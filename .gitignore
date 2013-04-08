@@ -1,0 +1,11 @@
+syntax: glob
+
+*.egg-info
+*.pyc
+*.sw?
+*~
+.DS_Store
+.installed.cfg
+.sass-cache
+Gemfile.lock
+dist
