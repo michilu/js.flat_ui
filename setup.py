@@ -31,7 +31,7 @@ setup(
       "Programming Language :: Python :: Implementation :: PyPy",
     ],
     keywords='',
-    license='MIT',
+    license='CC BY 3.0',
     packages=find_packages(),namespace_packages=['js'],
     include_package_data=True,
     zip_safe=False,
